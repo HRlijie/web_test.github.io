@@ -277,5 +277,11 @@ git submodule update --init --recursive
 
 详细：https://blog.csdn.net/m0_51411338/article/details/124380516
 
+gitee免费部署静态网站：https://blog.csdn.net/young_0609/article/details/124813681
+
 # github
+
+详细：https://blog.csdn.net/qq_34229228/article/details/86445535
+
+github免费部署静态网站：https://blog.csdn.net/qq1808814025/article/details/105895378
 
